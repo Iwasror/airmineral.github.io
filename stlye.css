@@ -1,0 +1,101 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    background-color: white;
+}
+div {
+   background-color: white;
+}
+.container-navbar {
+    background-color: rgb(236, 241, 241);
+    height: 2%;
+    padding: 1%;
+}
+.li-navbar{
+    display: flex;
+    margin-bottom: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 300%;
+    padding: 5%;
+    color: rgb(0, 0, 0);
+}
+.li-navbar:hover{
+    text-decoration: underline;
+}
+.ul-navbar{
+    height: 60;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+
+.container-content{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.img-content{
+    width: 50vh;
+}
+.img-content1{
+    width: 10vh;
+
+}
+.p-navbar{
+    height: 50%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 500%;
+}   
+.h1-content{
+
+    font-size: 40px;
+    background-color: black;
+}
+
+.a-navbar{color: black;
+    text-decoration: none;}
+
+.item{
+    background-color: rgb(0, 224, 224);
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.h1-bawah{
+    font-size: 25px;
+    height: 1rem;
+    padding: 2rem;
+}
+.p-bawah{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+
+}
+.tulisan1{
+    width: 10%;
+    position: relative;
+    top: 45%;
+    left: 45%;
+}
+
+    .tengah1{
+        display: flex;
+        justify-content: center;
+    }
+    .sumber{
+        font-size: 200%;
+        padding-bottom: 6%;
+        padding-top: 2%;
+    }
+    .penulis{
+        padding-bottom: 2%;
+    }
